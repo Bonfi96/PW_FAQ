@@ -31,14 +31,14 @@ Yes, you will find an option to switch account
 ### Does Pokewalk need to be on the same device as PoGo?
 No it does not. It will work as long as the same google account is used. In fact you can even have PoGo on iOS while using Pokewalk on an android device
 
-###What are "From this moment" and "Just before now"?
+### What are "From this moment" and "Just before now"?
 This option allows to add some distance traveled in the near future or near past.
 For example, if you add 1km "just before now", it's like tellig the app "Hey, I walked 1km in the past 10 min, log this".
 If you add 1km "From this moment", it's like telling the app "Hey, I'll be walking 1km in the next 10 min, log this".
 
 "Just before now" only works in situations when you know that PoGo has not completed a sync recently. If PoGo has just synced and you add some distance it will just get ignored.
 
-###What's the difference with Defit?
+### What's the difference with Defit?
 Pokewalk has been created to be quick to use and painless.
 Unlike Defit it does not have to stay open in the background, hence, on devices with annoying battery savers that close apps when you don't want to you'll probably have less trouble.
 
