@@ -42,3 +42,5 @@ If you add 1km "From this moment", it's like telling the app "Hey, I'll be walki
 Pokewalk has been created to be quick to use and painless.
 Unlike Defit it does not have to stay open in the background, hence, on devices with annoying battery savers that close apps when you don't want to you'll probably have less trouble.
 
+### Notifications are not showing up on the lockscreen of my Xiaomi device
+On Xiaomi devices you will need to allow the lock screen notifications for Pokewalk from Settings > Notifications > Lock Screen Notifications.
