@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Pokewalk FAQ
 
-You can use the [editor on GitHub](https://github.com/Bonfi96/PW_FAQ/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here's a collection of the most common question and their relative answers about the Pokewalk app.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Can I use Pokewalk while playing
+Yes you can, the distance you pick will be added over time even while playing.
 
-### Markdown
+### Do I have to leave Pokewalk open for it to work?
+No, after you add some distance you can close it and don't worry about it
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Is Google Fit required to use the app?
+No, Google Fit is not required. You can use it to check if the distance has been added.
 
-```markdown
-Syntax highlighted code block
+### How can I check if the distance is being added?
+You can install the Google Fit app and press on the "distance traveled" amount, a small graph for distance traveled over time will open
 
-# Header 1
-## Header 2
-### Header 3
+### I added some distance but the app seems to not be working / the distance added is not being considered
+There are various reasons why this could happen, try these steps to find the problem:
+- Wait: the distance is added over time so you'll need to wait both for the distance to be logged, and for PoGo to pick up the new distance traveled. Even if you get the notification that the full distance has been added it doesn't mean that PoGo has synced yet.
+- Check with the Google Fit app if the distance has been added atleast to your google account. If it has been added there, you'll just need to wait for PoGO to sync it.
+- Check that you are using the same google account for Pokewalk and PoGo
+- Check if Google Play Services is updated, if so try and clear its cache
+- Check if you are using an ad-blocker
+- Check if any kind of firewall is blocking your requests
+- If you tried everyting, and apps like Defit do not work either, there's a chance that the problem is on Google's side. It occurred to me that for a couple hours on a random day distance was not being added
+If you can't get it to work please contact the support from the play store page.
 
-- Bulleted
-- List
+### Can I use Pokewalk with multiple accounts?
+Yes, you will find an option to switch account
 
-1. Numbered
-2. List
+### Does Pokewalk need to be on the same device as PoGo?
+No it does not. It will work as long as the same google account is used. In fact you can even have PoGo on iOS while using Pokewalk on an android device
 
-**Bold** and _Italic_ and `Code` text
+###What are "From this moment" and "Just before now"?
+This option allows to add some distance traveled in the near future or near past.
+For example, if you add 1km "just before now", it's like tellig the app "Hey, I walked 1km in the past 10 min, log this".
+If you add 1km "From this moment", it's like telling the app "Hey, I'll be walking 1km in the next 10 min, log this".
 
-[Link](url) and ![Image](src)
-```
+"Just before now" only works in situations when you know that PoGo has not completed a sync recently. If PoGo has just synced and you add some distance it will just get ignored.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###What's the difference with Defit?
+Pokewalk has been created to be quick to use and painless.
+Unlike Defit it does not have to stay open in the background, hence, on devices with annoying battery savers that close apps when you don't want to you'll probably have less trouble.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bonfi96/PW_FAQ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
