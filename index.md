@@ -1,9 +1,32 @@
-## Pokewalk FAQ
+# Pokewalk FAQ, Guide and Info
+
+## Info
+
+Pokewalk is available for free on [Google Play](https://play.google.com/store/apps/details?id=com.binarygraft.pokewalk).
+The app contains Ads
+
+### Requirements
+The app requires a device running Android 4.4 or above and a google account. If you are using the app for PoGo you need to use the same account you linked.
+
+The app does not require you to install Google Fit, but you can use it to check if the app is working while waiting for PoGo to sync.
+
+## Guide
+Using the app is really simple
+
+* Open the app and login with your google account
+* Pick
+
+## FAQ
 
 Here's a collection of the most common question and their relative answers about the Pokewalk app.
 
+### What's the difference with Defit? Why is it useful?
+Pokewalk has been created to be quick to use and painless.
+Unlike Defit it does not have to stay open in the background, hence, you'll probably have less trouble on devices with annoying battery savers that close apps when you don't want to.
+In the context of PoGo the app has been reported to be useful to reach the 50Km weekly goal or especially to hatch eggs thanks to the notifications you can receive after a certain distance has been reached.
+
 ### Can I use Pokewalk while playing
-Yes you can, the distance you pick will be added over time even while playing.
+Yes you can, the distance you pick will be added over time even while playing. 
 
 ### Do I have to leave Pokewalk open for it to work?
 No, after you add some distance you can close it and don't worry about it
@@ -31,16 +54,15 @@ Yes, you will find an option to switch account
 ### Does Pokewalk need to be on the same device as PoGo?
 No it does not. It will work as long as the same google account is used. In fact you can even have PoGo on iOS while using Pokewalk on an android device
 
+### What's the run switch?
+The run switch reduce the time it takes to cover a certain distance, once you activate it you can see the time estimate for a run update.
+
 ### What are "From this moment" and "Just before now"?
 This option allows to add some distance traveled in the near future or near past.
 For example, if you add 1km "just before now", it's like tellig the app "Hey, I walked 1km in the past 10 min, log this".
 If you add 1km "From this moment", it's like telling the app "Hey, I'll be walking 1km in the next 10 min, log this".
 
 "Just before now" only works in situations when you know that PoGo has not completed a sync recently. If PoGo has just synced and you add some distance it will just get ignored.
-
-### What's the difference with Defit?
-Pokewalk has been created to be quick to use and painless.
-Unlike Defit it does not have to stay open in the background, hence, on devices with annoying battery savers that close apps when you don't want to you'll probably have less trouble.
 
 ### Notifications are not showing up on the lockscreen of my Xiaomi device
 On Xiaomi devices you will need to allow the lock screen notifications for Pokewalk from Settings > Notifications > Lock Screen Notifications.
