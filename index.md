@@ -2,8 +2,20 @@
 
 ## Info
 
+Pokewalk is an app to add some traveled distance you your google fit account, therfore it can be used to add distace traveled to games such as PoGo.
+
 Pokewalk is available for free on [Google Play](https://play.google.com/store/apps/details?id=com.binarygraft.pokewalk).
 The app contains Ads
+
+
+### Important
+
+The app, like other similar apps, has no direct interaction with PoGo as it merely adds distance to Google Play services.
+This said, the app is NOT ban proof, is NOT 100% safe and does not guarantee in ANY way that there won't be consequences.
+In general you should never believe in similar claims as it's impossible for anyone to make such statement.
+I don't take any responsibility for the app usage or any bans or warning that may happen.
+
+
 
 ### Requirements
 The app requires a device running Android 4.4 or above and a google account. If you are using the app for PoGo you need to use the same account you linked.
@@ -11,10 +23,21 @@ The app requires a device running Android 4.4 or above and a google account. If 
 The app does not require you to install Google Fit, but you can use it to check if the app is working while waiting for PoGo to sync.
 
 ## Guide
+
 Using the app is really simple
 
 * Open the app and login with your google account
-* Pick
+* Pick a distance using the slider, you can see how much time will be necessary to log such distance just below
+* If you are on a hurry, toggle the run mode for quicker results
+* Press one of the "walk" buttons to log your run (you may have to watch an ad)
+* If everything went right a popup will say "Success!" and the "Last successful run" time will be updated
+
+* Wait for the estimated time, you'll receive a notification when the run is over. You can close the app in the meantime
+* * The first time using the app you may want to check on Google Fit if the distance has been fully added to your account once you receive the notification
+
+* Wait for PoGo to sync with Google fit services
+
+If you run into problems please refer to the FAQs below, or get in contact with me, I'll be happy to help!
 
 ## FAQ
 
