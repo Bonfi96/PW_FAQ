@@ -64,6 +64,7 @@ You can install the Google Fit app and press on the "distance traveled" amount, 
 There are various reasons why this could happen, try these steps to find the problem:
 - Wait: the distance is added over time so you'll need to wait both for the distance to be logged, and for PoGo to pick up the new distance traveled. Even if you get the notification that the full distance has been added it doesn't mean that PoGo has synced yet.
 - Check with the Google Fit app if the distance has been added atleast to your google account. If it has been added there, you'll just need to wait for PoGO to sync it.
+- Check if PoGo, Google Fit or Google Services have the location permission enabled
 - Check that you are using the same google account for Pokewalk and PoGo
 - Check if Google Play Services is updated, if so try and clear its cache
 - Check if you are using an ad-blocker
