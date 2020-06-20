@@ -1,6 +1,6 @@
 # Pokewalk FAQ, Guide and Info
 
-[Skip to the troubleshooting section](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
+[↯ Skip to the troubleshooting section ↯](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
 
 ## Info
 
