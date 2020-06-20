@@ -1,5 +1,7 @@
 # Pokewalk FAQ, Guide and Info
 
+[Skip to the troubleshooting section](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
+
 ## Info
 
 Pokewalk is an app to add some traveled distance you your google fit account, therfore it can be used to add distace traveled to games such as PoGo.
@@ -66,6 +68,8 @@ There are various reasons why this could happen, try these steps to find the pro
 - Check with the Google Fit app if the distance has been added atleast to your google account. If it has been added there, you'll just need to wait for PoGO to sync it.
 - Check if PoGo, Google Fit or Google Services have the location permission enabled
 - Check that you are using the same google account for Pokewalk and PoGo
+- Check that your google account is a @goooglemail account, if it is you can update it to @gmail by clicking "switch to @gmail.com" in the "Accounts" tab in your Gmail Settings (it will only show up if you're eligible to change your address.)
+Google fit services are known to not work with @googlemail accounts
 - Check if Google Play Services is updated, if so try and clear its cache
 - Check if you are using an ad-blocker
 - Check if any kind of firewall is blocking your requests
