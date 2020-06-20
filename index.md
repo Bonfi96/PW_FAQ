@@ -3,7 +3,6 @@
 [Skip to the troubleshooting section](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
 
 ## Info
-[Skip to the troubleshooting section](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
 
 Pokewalk is an app to add some traveled distance you your google fit account, therfore it can be used to add distace traveled to games such as PoGo.
 
