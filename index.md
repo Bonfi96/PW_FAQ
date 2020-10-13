@@ -75,6 +75,7 @@ Google fit services are known to not work with @googlemail accounts
 - Check if any kind of firewall is blocking your requests
 - Check that you are not using any kind of battery saving apps for PoGo or Pokewalk, also things like "power saving mode" on Samsung devices
 - Make sure your phone's clock is set automatically, having it manually set causes issues with the syncing process
+- In the game try to go in Settings > Advanced Settings > Refresh Game Data
 - If you tried everyting, and apps like Defit do not work either, there's a chance that the problem is on Google's side. It occurred to me that for a couple hours on a random day distance was not being added
 If you can't get it to work please contact the support from the play store page.
 
