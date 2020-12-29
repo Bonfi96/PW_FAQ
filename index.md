@@ -85,15 +85,23 @@ Yes, you will find an option to switch account
 ### Does Pokewalk need to be on the same device as PoGo?
 No it does not. It will work as long as the same google account is used. In fact you can even have PoGo on iOS while using Pokewalk on an android device
 
+### Notifications are not showing up on the lockscreen of my Xiaomi device
+On Xiaomi devices you will need to allow the lock screen notifications for Pokewalk from Settings > Notifications > Lock Screen Notifications.
+
+### What's my user ID?
+Pokewalk requires you to login with your google account, if you paid attention though, it does not ask you permission to access your email, name or other personal information. That's cause we don't need it!
+Instead of asking permission to access this information for no valid reason, we just show you a unique anonymous identifier for your google account.
+This way if you use multiple accounts you know which one you're currently using!
+
+### Old PW version
 ### What's the run switch?
 The run switch reduce the time it takes to cover a certain distance, once you activate it you can see the time estimate for a run update.
 
-### What are "From this moment" and "Just before now"?
+### What are "From this moment" and "Just before now"? 
 This option allows to add some distance traveled in the near future or near past.
 For example, if you add 1km "just before now", it's like tellig the app "Hey, I walked 1km in the past 10 min, log this".
 If you add 1km "From this moment", it's like telling the app "Hey, I'll be walking 1km in the next 10 min, log this".
 
 "Just before now" only works in situations when you know that PoGo has not completed a sync recently. If PoGo has just synced and you add some distance it will just get ignored.
 
-### Notifications are not showing up on the lockscreen of my Xiaomi device
-On Xiaomi devices you will need to allow the lock screen notifications for Pokewalk from Settings > Notifications > Lock Screen Notifications.
+
