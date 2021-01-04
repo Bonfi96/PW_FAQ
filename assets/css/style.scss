@@ -3,5 +3,6 @@
 
 @import "{{ site.theme }}";
 .warning {
+  .main-content h2
   color: red;
 }
