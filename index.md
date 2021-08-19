@@ -3,7 +3,7 @@
 [↯ Skip to the troubleshooting section ↯](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
 
 
-<div class="warning">↯IMPORTANT↯ : If the app is crashing, try to update the Android System Web View on your phone and Google Chrome
+<div class="warning">↯IMPORTANT↯ : Make sure your app is updated to the latest version (2.5.6 or later)
 </div>
 
 ## Info
