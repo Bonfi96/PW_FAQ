@@ -2,6 +2,10 @@
 
 [↯ Skip to the troubleshooting section ↯](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
 
+<div class="warning">↯IMPORTANT↯ : The game is having issues with distance being recorded. Please check in the google fit app if the distance is being added there.
+As some users reported, if the distance is being logged there correctly, then the app is working fine and game is having issues for you.
+You just have to wait a couple days for it to go back to normal.
+</div>
 
 <div class="warning">↯IMPORTANT↯ : Make sure your app is updated to the latest version (2.5.6 or later)
 </div>
