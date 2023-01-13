@@ -12,7 +12,7 @@ You just have to wait a couple days for it to go back to normal.
 
 ## Info
 
-Pokewalk is an app to add some traveled distance you your google fit account, therfore it can be used to add distace traveled to games such as PoGo.
+Pokewalk is an app to add some traveled distance to your google fit account, therfore it can be used to add distace traveled to games such as PoGo.
 
 Pokewalk is available for free on [Google Play](https://play.google.com/store/apps/details?id=com.binarygraft.pokewalk).
 The app contains Ads
