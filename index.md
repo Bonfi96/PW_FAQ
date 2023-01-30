@@ -1,5 +1,9 @@
 # Pokewalk FAQ, Guide and Info
 
+<div class="warning">↯IMPORTANT 30/01/2023↯ : We've received various report of distance not being added. This however is only happening for a few of our users so it's very likely that the game itself is having issues. We're actively investigating and we'll try to keep this page updated with the latest info.
+Hopefully things will be back to normal in a few days, thanks for using Pokewalk!
+</div>
+
 [↯ Skip to the troubleshooting section ↯](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
 
 <div class="warning">↯IMPORTANT↯ : Make sure your app is updated to the latest version (2.5.6 or later)
