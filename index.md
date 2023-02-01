@@ -1,5 +1,8 @@
 # Pokewalk FAQ, Guide and Info
 
+<div class="warning">↯IMPORTANT 01/02/2023↯ : For some people that had problems the issue got resolved but came back after around ~12h. For others it's just working now. This suggests again that the issue is sadly not under our control. Our best guess is that some sort of maintenance is being done as most users seems to be unaffected while others are having sporadic issues. Thanks to all the users sending us feedback!
+</div>
+
 <div class="warning">↯IMPORTANT 30/01/2023↯ : We've received various report of distance not being added. This however is only happening for a few of our users so it's very likely that the game itself is having issues. We're actively investigating and we'll try to keep this page updated with the latest info.
 Hopefully things will be back to normal in a few days, thanks for using Pokewalk!
 </div>
