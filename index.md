@@ -5,6 +5,7 @@ For some people that had problems the issue got resolved but came back after aro
 </div>
 
 
+
 <div class="warning">↯ 30/01/2023 ↯ : 
 We've received various report of distance not being added. This however is only happening for a few of our users so it's very likely that the game itself is having issues. We're actively investigating and we'll try to keep this page updated with the latest info.
 Hopefully things will be back to normal in a few days, thanks for using Pokewalk!
