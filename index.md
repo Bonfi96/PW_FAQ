@@ -10,7 +10,7 @@ This seems to be the #1 misconception that a lot users have reported so apologie
 
 [↯ Skip to the troubleshooting section ↯](#i-added-some-distance-but-the-app-seems-to-not-be-working--the-distance-added-is-not-being-considered)
 
-<div class="warning">↯IMPORTANT↯ : Make sure your app is updated to the latest version (2.5.6 or later)
+<div class="warning">↯IMPORTANT↯ : Make sure your app is updated to the latest version (3.0.0 or later)
 </div>
 
 ## Info
