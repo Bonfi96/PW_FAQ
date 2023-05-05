@@ -1,7 +1,10 @@
 # Pokewalk FAQ, Guide and Info
 
 <div class="warning">↯ 04/05/2023 ↯ :<br>
-A new version of the app is in the works and will be released soon with many fixes!
+Version 3.0.0 is out!
+
+Please remember that after the distance is done adding, there might be a 30 min - 2h delay for it to be considered!
+This seems to be the #1 misconception that a lot users have reported so apologies for not making it clear!
 <br><br>
 </div>
 
