@@ -48,7 +48,7 @@ Using the app is really simple
 * Wait for the estimated time, you'll receive a notification when the run is over. You can close the app in the meantime
 * * The first time using the app you may want to check on Google Fit if the distance has been fully added to your account once you receive the notification
 
-* Wait for PoGo to sync with Google fit services
+* IMPORTANT: Wait for PoGo to sync with Google fit services, this might usually take 30 min to 2h AFTER the run is done adding.
 
 If you run into problems please refer to the FAQs below, or get in contact with me, I'll be happy to help!
 
