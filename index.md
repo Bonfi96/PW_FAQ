@@ -2,7 +2,7 @@
 
 <div class="warning">↯ 04/05/2023 ↯ :<br>
 Version 3.0.x is out!
-<br>
+<br><br>
 Here are some quick tips:<br><br>
 <ul>
   <li>
