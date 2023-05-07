@@ -1,11 +1,21 @@
 # Pokewalk FAQ, Guide and Info
 
 <div class="warning">↯ 04/05/2023 ↯ :<br>
-Version 3.0.0 is out!
-
-Please remember that after the distance is done adding, there might be a 30 min - 2h delay for it to be considered!
-This seems to be the #1 misconception that a lot users have reported so apologies for not making it clear!
-The app seems to work best overnight while you are not actively playing!
+Version 3.0.x is out!
+<br>
+Here are some quick tips:<br><br>
+<ul>
+  <li>
+  Please remember that after the distance is done adding, there might be a 30 min - 2h delay for it to be considered!
+  This seems to be the #1 misconception that a lot users have reported so apologies for not making it clear!
+  </li>
+  <li>
+  The app seems to work best overnight while you are not actively playing! Or more in general, avoid opening the game till after the delay.
+  </li>
+  <li>
+  Do not start multiple runs at the same time. Wait till you get the notification for the first one before starting a second one.
+  </li>
+</ul>
 <br><br>
 </div>
 
